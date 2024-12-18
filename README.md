@@ -1,6 +1,5 @@
 # java-ai-tools
-List of all cool java-ai tools from around the world.
-
+Curated list of the coolest AI tools for Java devs—AI magic, Java power! 
 -------------------------------------------------------------------
 
 ## Java Tools for Inference
