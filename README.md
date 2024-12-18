@@ -1,6 +1,6 @@
 # java-ai-tools
 Curated list of the coolest AI tools for Java devs—AI magic, Java power! 
--------------------------------------------------------------------
+------------------------------------------------------------------------
 
 ## Java Tools for Inference
 1. [llama3.java](https://github.com/mukel/llama3.java) - Practical Llama 3 inference in Java
@@ -12,3 +12,6 @@ Curated list of the coolest AI tools for Java devs—AI magic, Java power!
 
 ## LLM Provider Connector
 1. [Hosp-AI](https://github.com/r7b7/hosp-ai) Lightweight LLM Provider Connector for Java
+
+## SDK
+1. [OpenAI](https://github.com/openai/openai-java) The official Java library for the OpenAI API
